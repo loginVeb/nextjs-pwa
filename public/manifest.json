@@ -1,0 +1,15 @@
+{
+  "name": "NextJS PW App bySMA",
+  "short_name": "NextPWA bySMA",
+  "theme_color": "#00ff00",
+  "background_color": "#ffffff",
+  "display": "fullscreen",
+  "orientation": "any",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    { "src": "icons/bySMA-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "icons/bySMA-256.png", "type": "image/png", "sizes": "256x256" },
+    { "src": "icons/bySMA-512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}
